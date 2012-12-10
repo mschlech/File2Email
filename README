@@ -1,0 +1,11 @@
+File 2 Email is the initial Piotr Gabryanczyk showcase of his
+fantastic presentation on integrating Apache Camel within Akka 2.1
+
+The evolution of this supposed to described more in detail within the
+next weeks
+
+just for now invoke the http endpointUri with the parameter name , to , from
+
+add certain credentials in the endpointUri to get it working
+
+This file was modified by IntelliJ IDEA 11.1.4 for binding GitHub repository
